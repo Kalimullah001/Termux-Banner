@@ -12,24 +12,11 @@ cyan='\e[0;36m'
 lightgreen='\e[1;32m'
 red='\e[1;31m'
 yellow='\e[1;33m'
-echo -e $lightgreen "\e[1m                KalimHacker4us "
+echo -e $lightgreen "\e[1m                Kalimullah4us"
 echo " "
 echo -e $yellow "\e[1m                         -Kalim Hacker "
 echo " "
-echo "________
-< HACKER >
- --------
-    \
-     \
-                                   .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
-  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
-      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
-      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
-      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
-      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
-        "*$bd$$$$      '*$$$$$$$$$$$o+#"
-             """"          """""""
+echo "
   _  __     _ _
  | |/ /    | (_)
  | ' / __ _| |_ _ __ ___
