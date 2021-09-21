@@ -16,13 +16,7 @@ echo -e $lightgreen "\e[1m                Kalimullah4us"
 echo " "
 echo -e $yellow "\e[1m                         -Kalim Hacker "
 echo " "
-echo "
-  _  __     _ _
- | |/ /    | (_)
- | ' / __ _| |_ _ __ ___
- |  < / _` | | | '_ ` _ \
- | . \ (_| | | | | | | | |
- |_|\_\__,_|_|_|_| |_| |_|"
+echo " "
 echo " "
 echo -e "\e[1m\e[33m\nWhat is Your \e[31mBanner \e[33mName\e[32m :\n\n"
 read varbanner
